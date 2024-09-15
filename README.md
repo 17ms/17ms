@@ -1,1 +1,1 @@
-Moved to [umbrella.haus](https://umbrella.haus/ae).
+Moved to [umbrella.haus](https://git.umbrella.haus/ae).
