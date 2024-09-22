@@ -1,6 +1,7 @@
-<div align="center">
-  Migrated all my open source projects to a self-hosted Gitea instance.
-  <br>
-  <p>Gitea: [git.umbrella.haus](https://git.umbrella.haus/ae)</p>
-  <p>Website: [golfed.xyz](https://golfed.xyz)</p>
-</div>
+<p align="center">
+<samp>
+  Migrated all my open source projects to a self-hosted Gitea instance.<br><br>
+  Gitea: <a href="https://git.umbrella.haus/ae">git.umbrella.haus</a><br>
+  Website: <a href="https://golfed.xyz">golfed.xyz</a><br>
+</samp>
+</p>
